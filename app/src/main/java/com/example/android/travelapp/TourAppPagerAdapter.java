@@ -7,9 +7,9 @@ import android.support.v4.app.FragmentPagerAdapter;
 /**
  * Created by Pablo on 24-Aug-16.
  */
-public class TravelAppPagerAdapter extends FragmentPagerAdapter {
+public class TourAppPagerAdapter extends FragmentPagerAdapter {
 
-    public TravelAppPagerAdapter(FragmentManager fm) {
+    public TourAppPagerAdapter(FragmentManager fm) {
         super(fm);
     }
 

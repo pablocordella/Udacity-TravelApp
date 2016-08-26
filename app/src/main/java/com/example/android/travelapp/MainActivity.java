@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         ListInformationCreator.Init(MainActivity.this);
 
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
-        TravelAppPagerAdapter adapter = new TravelAppPagerAdapter(getSupportFragmentManager());
+        TourAppPagerAdapter adapter = new TourAppPagerAdapter(getSupportFragmentManager());
         viewPager.setAdapter(adapter);
     }
 }

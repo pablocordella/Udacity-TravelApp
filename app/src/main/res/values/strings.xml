@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TravelApp</string>
+    <string name="app_name">Tour App</string>
 
     <string name="museum1_title">Museum 1</string>
     <string name="museum1_description">Awesome museum for kids</string>
