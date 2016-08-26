@@ -1,3 +1,56 @@
 <resources>
     <string name="app_name">TravelApp</string>
+
+    <string name="museum1_title">Museum 1</string>
+    <string name="museum1_description">Awesome museum for kids</string>
+    <string name="museum2_title">Museum 2</string>
+    <string name="museum2_description">Interactive museum for everybody!</string>
+    <string name="museum3_title">Museum 3</string>
+    <string name="museum3_description">Historical musem</string>
+    <string name="museum4_title">Museum 4</string>
+    <string name="museum4_description">Science museum</string>
+    <string name="museum5_title">Museum 5</string>
+    <string name="museum5_description">Math museum</string>
+    <string name="museum6_title">Museum 6</string>
+    <string name="museum6_description">History museum</string>
+
+    <string name="entertainment1_title">Roller Coasters</string>
+    <string name="entertainment1_description">Excitement everywhere!!</string>
+    <string name="entertainment2_title">Zoo</string>
+    <string name="entertainment2_description">Fun for the whole family</string>
+    <string name="entertainment3_title">Theater</string>
+    <string name="entertainment3_description">Late shows only</string>
+
+    <string name="food1_title">Restaurant 1</string>
+    <string name="food1_description">Only vegetarian food</string>
+    <string name="food2_title">Restaurant 2</string>
+    <string name="food2_description">Great sushi place</string>
+    <string name="food3_title">Restaurant 3</string>
+    <string name="food3_description">Italian and more</string>
+    <string name="food4_title">Restaurant 4</string>
+    <string name="food4_description">Cook your own meals</string>
+    <string name="food5_title">Restaurant 5</string>
+    <string name="food5_description">Fast food restaurant</string>
+    <string name="food6_title">Restaurant 6</string>
+    <string name="food6_description">Pub and Drinks</string>
+    <string name="food7_title">Restaurant 7</string>
+    <string name="food7_description">Meat lovers</string>
+    <string name="food8_title">Restaurant 8</string>
+    <string name="food8_description">Chinese food</string>
+    <string name="food9_title">Restaurant 9</string>
+    <string name="food9_description">Indian food</string>
+
+    <string name="event1_title">Rock Festival </string>
+    <string name="event1_description">Sunday all day</string>
+    <string name="event2_title">International Movie day</string>
+    <string name="event2_description">08/28</string>
+    <string name="event3_title">Horse Festival</string>
+    <string name="event3_description">09/01</string>
+    <string name="event4_title">Santiago Marathon</string>
+    <string name="event4_description">09/04</string>
+    <string name="event5_title">City Bike @Night</string>
+    <string name="event5_description">09/05</string>
+
+
+
 </resources>
