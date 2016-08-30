@@ -41,9 +41,9 @@ public class ListInformationCreator {
             mEntertainmentList = new ArrayList<ListElement>();
 
             Resources res = mContext.getResources();
-            mEntertainmentList.add( new ListElement( res.getString(R.string.entertainment1_title), res.getString(R.string.entertainment1_description )));
-            mEntertainmentList.add( new ListElement( res.getString(R.string.entertainment2_title), res.getString(R.string.entertainment2_description )));
-            mEntertainmentList.add( new ListElement( res.getString(R.string.entertainment3_title), res.getString(R.string.entertainment3_description )));
+            mEntertainmentList.add( new ListElement( res.getString(R.string.entertainment1_title), res.getString(R.string.entertainment1_description ), R.drawable.san_cristobal_hill));
+            mEntertainmentList.add( new ListElement( res.getString(R.string.entertainment2_title), res.getString(R.string.entertainment2_description ), R.drawable.patio_bellavista));
+            mEntertainmentList.add( new ListElement( res.getString(R.string.entertainment3_title), res.getString(R.string.entertainment3_description ), R.drawable.rosas));
         }
 
         return mEntertainmentList;
@@ -69,12 +69,12 @@ public class ListInformationCreator {
             mMuseumList = new ArrayList<ListElement>();
 
             Resources res = mContext.getResources();
-            mMuseumList.add( new ListElement( res.getString(R.string.museum1_title), res.getString(R.string.museum1_description), R.drawable.color_black ));
-            mMuseumList.add( new ListElement( res.getString(R.string.museum2_title), res.getString(R.string.museum2_description), R.drawable.color_brown ));
-            mMuseumList.add( new ListElement( res.getString(R.string.museum3_title), res.getString(R.string.museum3_description), R.drawable.color_dusty_yellow ));
-            mMuseumList.add( new ListElement( res.getString(R.string.museum4_title), res.getString(R.string.museum4_description), R.drawable.color_gray ));
-            mMuseumList.add( new ListElement( res.getString(R.string.museum5_title), res.getString(R.string.museum5_description), R.drawable.color_green ));
-            mMuseumList.add( new ListElement( res.getString(R.string.museum6_title), res.getString(R.string.museum6_description), R.drawable.color_mustard_yellow ));
+            mMuseumList.add( new ListElement( res.getString(R.string.museum1_title), res.getString(R.string.museum1_description), R.drawable.museo_nacional_historia ));
+            mMuseumList.add( new ListElement( res.getString(R.string.museum2_title), res.getString(R.string.museum2_description), R.drawable.museo_finas_artes ));
+            mMuseumList.add( new ListElement( res.getString(R.string.museum3_title), res.getString(R.string.museum3_description), R.drawable.museo_historico_nacional ));
+            mMuseumList.add( new ListElement( res.getString(R.string.museum4_title), res.getString(R.string.museum4_description), R.drawable.museo_precolombino));
+            mMuseumList.add( new ListElement( res.getString(R.string.museum5_title), res.getString(R.string.museum5_description), R.drawable.museo_arte ));
+            mMuseumList.add( new ListElement( res.getString(R.string.museum6_title), res.getString(R.string.museum6_description), R.drawable.museo_derechos_humanos ));
         }
 
         return mMuseumList;

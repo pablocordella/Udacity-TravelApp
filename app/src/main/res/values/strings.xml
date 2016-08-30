@@ -1,56 +1,53 @@
 <resources>
     <string name="app_name">Tour App</string>
 
-    <string name="museum1_title">Museum 1</string>
-    <string name="museum1_description">Awesome museum for kids</string>
-    <string name="museum2_title">Museum 2</string>
-    <string name="museum2_description">Interactive museum for everybody!</string>
-    <string name="museum3_title">Museum 3</string>
-    <string name="museum3_description">Historical musem</string>
-    <string name="museum4_title">Museum 4</string>
-    <string name="museum4_description">Science museum</string>
-    <string name="museum5_title">Museum 5</string>
-    <string name="museum5_description">Math museum</string>
-    <string name="museum6_title">Museum 6</string>
-    <string name="museum6_description">History museum</string>
+    <string name="museum1_title">National Museum of Natural History</string>
+    <string name="museum1_description">Located in Quinta Normal Park </string>
+    <string name="museum2_title">National Museum of Fine Arts</string>
+    <string name="museum2_description">Located in Santiago, Chile</string>
+    <string name="museum3_title">Chilean National History Museum</string>
+    <string name="museum3_description">Museum in a 19th-century royal palace</string>
+    <string name="museum4_title">Museo Chileno de Arte Precolombino</string>
+    <string name="museum4_description">Dedicated to the study of pre-Columbian artworks </string>
+    <string name="museum5_title">Museum of Contemporary Art</string>
+    <string name="museum5_description">It is one of the city’s major museums</string>
+    <string name="museum6_title">Museum of Human Rights</string>
+    <string name="museum6_description">Commemorates the victims of human rights violations</string>
 
-    <string name="entertainment1_title">Roller Coasters</string>
-    <string name="entertainment1_description">Excitement everywhere!!</string>
-    <string name="entertainment2_title">Zoo</string>
-    <string name="entertainment2_description">Fun for the whole family</string>
-    <string name="entertainment3_title">Theater</string>
-    <string name="entertainment3_description">Late shows only</string>
+    <string name="entertainment1_title">Cerro San Cristobal</string>
+    <string name="entertainment1_description">Hiking and jogging</string>
+    <string name="entertainment2_title">Patio Bellavista</string>
+    <string name="entertainment2_description">Bars and food</string>
+    <string name="entertainment3_title">Parque Araucano</string>
+    <string name="entertainment3_description">Ideal for family</string>
 
-    <string name="food1_title">Restaurant 1</string>
-    <string name="food1_description">Only vegetarian food</string>
-    <string name="food2_title">Restaurant 2</string>
-    <string name="food2_description">Great sushi place</string>
-    <string name="food3_title">Restaurant 3</string>
-    <string name="food3_description">Italian and more</string>
-    <string name="food4_title">Restaurant 4</string>
-    <string name="food4_description">Cook your own meals</string>
-    <string name="food5_title">Restaurant 5</string>
-    <string name="food5_description">Fast food restaurant</string>
-    <string name="food6_title">Restaurant 6</string>
-    <string name="food6_description">Pub and Drinks</string>
-    <string name="food7_title">Restaurant 7</string>
-    <string name="food7_description">Meat lovers</string>
-    <string name="food8_title">Restaurant 8</string>
-    <string name="food8_description">Chinese food</string>
-    <string name="food9_title">Restaurant 9</string>
-    <string name="food9_description">Indian food</string>
+    <string name="food1_title">Barbudo</string>
+    <string name="food1_description">Jorge Washington 176, Ñuñoa, Santiago</string>
+    <string name="food2_title">La Destileria</string>
+    <string name="food2_description">Manuel de Salas 155, Ñuñoa, Santiago</string>
+    <string name="food3_title">Tapas Y Birra</string>
+    <string name="food3_description">19 de Abril 3561, Ñuñoa, Santiago</string>
+    <string name="food4_title">Baires</string>
+    <string name="food4_description">19 de Abril 3561, Ñuñoa, Santiago</string>
+    <string name="food5_title">Bar The Clinic</string>
+    <string name="food5_description">Jorge Washington 58, Ñuñoa, Santiago</string>
+    <string name="food6_title">Niu Sushi</string>
+    <string name="food6_description">19 de Abril 3560, Ñuñoa, Santiago</string>
+    <string name="food7_title">Taxco Cantina</string>
+    <string name="food7_description">19 de Abril 3540, Ñuñoa, Santiago</string>
+    <string name="food8_title">Fukai</string>
+    <string name="food8_description">Jorge Washington 144, Ñuñoa, Santiago</string>
+    <string name="food9_title">Barbazul</string>
+    <string name="food9_description">19 de Abril 3550, Ñuñoa, Santiago</string>
 
-    <string name="event1_title">Rock Festival </string>
-    <string name="event1_description">Sunday all day</string>
-    <string name="event2_title">International Movie day</string>
-    <string name="event2_description">08/28</string>
-    <string name="event3_title">Horse Festival</string>
-    <string name="event3_description">09/01</string>
-    <string name="event4_title">Santiago Marathon</string>
-    <string name="event4_description">09/04</string>
-    <string name="event5_title">City Bike @Night</string>
-    <string name="event5_description">09/05</string>
-
-
-
+    <string name="event1_title">Mercury La Leyenda</string>
+    <string name="event1_description">08-31-2016</string>
+    <string name="event2_title">Locas a Domicilio</string>
+    <string name="event2_description">08-31-2016</string>
+    <string name="event3_title">Abono Festival de Teatro Providencia</string>
+    <string name="event3_description">08-31-2016</string>
+    <string name="event4_title">We Came As Romans</string>
+    <string name="event4_description">01-09-2016</string>
+    <string name="event5_title">Peter Bjorn and John @ Club Fauna</string>
+    <string name="event5_description">02-09-2016</string>
 </resources>
